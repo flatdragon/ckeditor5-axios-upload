@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-simple-upload",
+  "name": "ckeditor5-axios-upload",
   "version": "1.0.6",
   "description": "Standart image upload plugin for ckeditor5",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pourquoi/ckeditor5-simple-upload.git"
+    "url": "https://github.com/flatdragon/ckeditor5-axios-upload.git"
   },
   "files": [
     "src",
@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-editor-classic": "^10.0.0",
-    "@ckeditor/ckeditor5-utils": "^10.0.0"
+    "@ckeditor/ckeditor5-utils": "^10.0.0",
+    "axios": "^0.18.0"
   }
 }
