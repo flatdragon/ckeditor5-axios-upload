@@ -1,6 +1,6 @@
 import ObservableMixin from '@ckeditor/ckeditor5-utils/src/observablemixin';
 import mix from '@ckeditor/ckeditor5-utils/src/mix';
-import FileRepository from '../node_modules/@ckeditor/ckeditor5-upload/src/filerepository';
+import FileRepository from '@ckeditor/ckeditor5-upload/src/filerepository';
 
 import Adapter from './adapter';
 
